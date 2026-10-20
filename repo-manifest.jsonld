@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/starlette-plugins/commit/5ca24ddc1ade331e30e83272fe5e5703d2fd35fb",
       "git:hexsha": "5ca24ddc1ade331e30e83272fe5e5703d2fd35fb",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.0.7"
     },
     {
